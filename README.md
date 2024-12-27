@@ -33,11 +33,6 @@
   <img src="https://img.shields.io/badge/Sass-C69?style=flat-square&logo=sass&logoColor=white" />
 </p>
 
----
-
-
-
----
 
 ## 🤝 Contact Me  
 <p align="center">
